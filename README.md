@@ -1,9 +1,13 @@
-<h1 align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=4000&pause=1000&color=20C997&vCenter=true&width=600&height=40&lines=Hi👋%F0%9F%91%8B%F0%9F%8F%BB👋;I'm+Lyfxxk(%E9%99%86%E7%8B%97);Vibe+Coding+%E5%AE%9E%E8%B7%B5%E8%80%85%F0%9F%9A%80" 
-       alt="Typing SVG"
-       style="margin: 10px 0;" />
-</h1>
+<div align="center">
 
+
+# 你好，我是 Lyfxxk👋
+
+### 🤖 Vibe Coding 实践者 🚀
+
+*自然语言驱动开发 —— 我提需求，AI 写代码，我负责说"很好，再改一版"*
+
+</div>
 
 ---
 
@@ -20,8 +24,8 @@
 ### 🧑‍💻 关于我
 
 - 🤖 **Vibe Coding 实践者**：自然语言驱动开发，我负责提需求，AI 负责写代码，我负责说"很好，再改一版"
-- 🧩 **全栈软件工程师**：产品 · UI · 前端 · 后端 · 测试皆有涉猎，但都比较水
-- 🤐 **工作状态**：2025年6月毕业后已校招入职某国企（企业及岗位内容恕不展开，懂的都懂）
+- 🧩 **全干工程师**：产品 · UI · 前端 · 后端 · 测试皆有涉猎，但比较水
+- 🤐 **工作状态**：已入职（岗位内容涉密，恕不展开，懂的都懂）
 
 ---
 
